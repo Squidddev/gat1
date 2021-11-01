@@ -58,7 +58,7 @@
     "@types/node": "^16.9.2",
     "@types/react": "^17.0.21",
     "@types/react-dom": "^17.0.9",
-    "@types/react-helmet": "^6.1.2",
+    "@types/react-helmet": "^6.1.4",
     "@types/xml2js": "^0.4.9",
     "@typescript-eslint/eslint-plugin": "^4.31.1",
     "axe-core": "^4.3.3",
