@@ -84,7 +84,7 @@
     "@types/node": "^16.9.2",
     "@types/react": "^17.0.21",
     "@types/react-dom": "^17.0.9",
-    "@types/react-helmet": "^6.1.2",
+    "@types/react-helmet": "^6.1.4",
     "@types/remove-markdown": "^0.3.1",
     "@types/styled-components": "^5.1.14",
     "@types/url-join": "^4.0.1",
